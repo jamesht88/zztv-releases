@@ -12,14 +12,6 @@
       "filterable": 1
     },
     {
-      "key": "xiangjiao",
-      "name": "🔞 香蕉",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "fhapi9",
       "name": "🔞 番号",
       "type": 1,
@@ -501,13 +493,6 @@
       "filterable": 1
     },
     {
-      "key": "*AIvin",
-      "name": "🔞 AIvin",
-      "type": 0,
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
       "key": "白嫖",
       "name": "🔞 白嫖",
       "type": 0,
@@ -528,19 +513,6 @@
       "filterable": 1
     },
     {
-      "key": "soporn",
-      "name": "🔞 soporn(T)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fmtv.xyz/public/fmtv/jar/XBPQ.jar",
-      "ext": {
-        "直接播放": "1",
-        "嗅探词": "index.m3u8",
-        "简介": "name=\"description\" content=\"&&\"/>",
-        "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"
-      }
-    },
-    {
       "key": "155zy.com",
       "name": "🔞 155",
       "type": 1,
@@ -549,34 +521,10 @@
       "filterable": 1
     },
     {
-      "key": "tantanzy.com",
-      "name": "🔞 探探",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gqzy.me",
-      "name": "🔞 搞起",
-      "type": 1,
-      "api": "https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "lebozy.com",
       "name": "🔞 乐播",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "laoyazy.com",
-      "name": "🔞 老鸭",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
@@ -597,26 +545,10 @@
       "filterable": 1
     },
     {
-      "key": "haosezyw.com",
-      "name": "🔞 好色",
-      "type": 1,
-      "api": "https://haosezyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "vnzyz.com",
       "name": "🔞 越南",
       "type": 1,
       "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "sesehuzy.com",
-      "name": "🔞 色虎",
-      "type": 1,
-      "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
@@ -627,22 +559,6 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "bttcj.com",
-      "name": "🔞 变态",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
     },
     {
       "key": "semaozy.com",
@@ -722,43 +638,10 @@
       }
     },
     {
-      "key": "llzxcj.com",
-      "name": "🔞 萝莉",
-      "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
       "key": "api.11bat.com",
       "name": "🔞 蝙蝠",
       "type": 0,
       "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "api.maozyapi.com",
-      "name": "🔞 猫咪",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -791,7 +674,7 @@
       "key": "afasu.com",
       "name": "🔞 阿发",
       "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
+      "api": "http://www.afasu.com/api/xml.php",
       "searchable": 1,
       "recordable": 0,
       "style": {
