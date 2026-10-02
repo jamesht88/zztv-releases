@@ -2,6 +2,14 @@
   "spider": "https://fmtv.xyz/public/fmtv/jar/custom.jar",
   "lives": [
     {
+      "name": "🆕 港澳台直播Pro 增強版 (8000+頻道)",
+      "type": 0,
+      "url": "https://fastly.jsdelivr.net/gh/jamesht88/zztv-releases@main/live/hktv_pro.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://zztv.store/logo.png"
+    },
+    {
       "name": "🇨🇳 國內超清極速（央視衛視/秒開免翻牆）",
       "type": 0,
       "url": "https://fastly.jsdelivr.net/gh/best-fan/iptv-sources@main/cn_all.m3u8",
