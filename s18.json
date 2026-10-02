@@ -545,14 +545,6 @@
       "filterable": 1
     },
     {
-      "key": "vnzyz.com",
-      "name": "🔞 越南",
-      "type": 1,
-      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "laosebizy.com",
       "name": "🔞 老色逼",
       "type": 1,
