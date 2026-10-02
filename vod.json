@@ -307,17 +307,6 @@
       "ext": "https://fmtv.xyz/public/fmtv/lib/网飞啦.json"
     },
     {
-      "key": "dr_低端",
-      "name": "🎬 低端",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/ddys.js"
-    },
-    {
       "key": "drpy_js_去看吧",
       "name": "👾 去看吧",
       "type": 3,
@@ -399,20 +388,6 @@
       "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar"
     },
     {
-      "key": "310看球",
-      "name": "⚽ 310看球",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://fmtv.xyz/public/fmtv/drpy_js/310.js"
-    },
-    {
       "key": "hipy_js_360吧[球]",
       "name": "🎬 360吧",
       "type": 3,
@@ -423,17 +398,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://fmtv.xyz/public/fmtv/drpy_js/360吧[球].js"
-    },
-    {
-      "key": "926tv[球]_js",
-      "name": "🎬 926tv",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fmtv.xyz/public/fmtv/drpy_js/926tv[球].js"
     }
   ],
   "doh": [
