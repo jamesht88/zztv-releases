@@ -2,66 +2,35 @@
   "spider": "https://fmtv.xyz/public/fmtv/jar/custom.jar",
   "lives": [
     {
-      "name": "直播 1 - 4GTV 🆕",
+      "name": "🇨🇳 國內超清極速（央視衛視/秒開免翻牆）",
+      "type": 0,
+      "url": "https://fastly.jsdelivr.net/gh/best-fan/iptv-sources@main/cn_all.m3u8",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
+    {
+      "name": "🇭🇰 港台海外專線 - 4GTV (翡翠台/無綫/HOY/Viu)",
       "type": "0",
       "ua": "okhttp/3.15",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
     {
-      "name": "直播源(部份地區不可使用)",
+      "name": "🇨🇳 央視頻道 4K/超清 (每日自動更新)",
       "type": 0,
-      "url": "https://tv123.cc.cd/tv.m3u"
-    },
-    {
-      "name": "直播 2 - 亚洲直播合集1",
-      "type": 0,
-      "url": "http://bit.ly/tvmu",
-      "ua": "okhttp",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 3 - 世🌍界直播合集2",
-      "type": 0,
-      "url": "https://firebase.anbox118.workers.dev/",
-      "ua": "okhttp",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 4 - 世🌍界直播合集3",
-      "type": 0,
-      "url": "https://iptv.vrsmarter.workers.dev",
-      "ua": "okhttp",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 5 - 世🌍界直播合集4",
-      "type": 0,
-      "url": "https://tv.anbox.dpdns.org/live40",
+      "url": "https://fastly.jsdelivr.net/gh/best-fan/iptv-sources@main/cn_cctv.m3u8",
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong"
     },
     {
-      "name": "直播 6 - 世🌍界直播合集5",
+      "name": "🇨🇳 全國各省衛視 高清專線",
       "type": 0,
-      "url": "https://tv.anbox.dpdns.org/live4",
+      "url": "https://fastly.jsdelivr.net/gh/best-fan/iptv-sources@main/cn_province.m3u8",
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong"
     },
     {
-      "name": "直播 7 - 世🌍界直播合集6",
-      "type": 0,
-      "url": "https://tv.anbox.dpdns.org/live18",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 8 - 中/港/台/马/越/日/韩/欧",
+      "name": "🌏 亞洲直播合集 (中港台/日韓/體育)",
       "type": 0,
       "url": "https://tv.anbox.dpdns.org/live13",
       "ua": "okhttp/3.15",
@@ -69,81 +38,33 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "直播 9 - 中/港/台",
-      "type": 0,
-      "url": "https://tv.anbox.dpdns.org/live20",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 10 - 欧/美/运动",
-      "type": 0,
-      "url": "https://tv.anbox.dpdns.org/live15",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 11 - 综合",
-      "type": 0,
-      "url": "https://tv.anbox.dpdns.org/live",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 12 - 综合",
-      "type": 0,
-      "url": "https://iptv.852851.xyz/sub/OL4NiqzafthO/playlist.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播 13 - ▶️YouTube新闻",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/playlist.txt",
-      "ua": "okhttp"
-    },
-    {
-      "name": "直播 14 - 世🌍界杯",
-      "type": 0,
-      "url": "http://82.156.243.185:33389/fwc.m3u",
-      "ua": "okhttp"
-    },
-    {
-      "name": "直播 15 - 世🌍界杯",
+      "name": "⚽ 體育與綜合賽事專線",
       "type": 0,
       "url": "https://2229527.xyz/fm/FIFA.m3u",
       "ua": "okhttp"
     },
     {
-      "name": "直播 16 - 世🌍界杯",
-      "type": 0,
-      "url": "https://sports.445569.xyz/live.m3u",
-      "ua": "okhttp"
-    },
-    {
-      "name": "直播 17 - Unifi",
+      "name": "📡 國際資訊與生活台 (Unifi)",
       "type": 0,
       "url": "https://fmtv.xyz/public/fmtv/live/unifi.php",
       "epg": "https://paradise-city-1988.netlify.app/unifi.xml"
     },
     {
-      "name": "直播 18 - Juli",
+      "name": "🎬 Juli 影視娛樂專線",
       "type": 0,
       "url": "https://2229527.xyz/live/juli.txt"
     },
     {
-      "name": "直播 19 - FIFA",
+      "name": "▶️ YouTube 即時新聞台",
       "type": 0,
-      "url": "https://smart.946985.filegear-sg.me/sub.php?user=FIFA"
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/playlist.txt",
+      "ua": "okhttp"
     },
     {
-      "name": "直播 20 - 亞洲直播",
+      "name": "🌐 歐美經典與國際頻道",
       "type": 0,
-      "url": "https://tv123.cc.cd/tv.m3u"
+      "url": "https://tv.anbox.dpdns.org/live15",
+      "ua": "okhttp/3.15"
     }
   ],
   "logo": "https://i.imgur.com/BFUAtKS.jpeg",
@@ -299,16 +220,6 @@
       "changeable": 1
     },
     {
-      "key": "https://fmtv.xyz/public/fmtv/redflix.py",
-      "name": "🎬 Redflix",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/redflix1?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0
-    },
-    {
       "key": "py_ppnix",
       "name": "PPNIX | 影视 ",
       "type": 4,
@@ -362,12 +273,6 @@
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
       "ext": "https://fmtv.xyz/public/fmtv/lib/douban.js"
-    },
-    {
-      "key": "py_douban",
-      "name": "🎬 豆瓣",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/py_douban?k=48027cf1b4860e0e94d83176e272a96b"
     },
     {
       "key": "PTT",
