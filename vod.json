@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jamesht88/zztv-releases/main/custom.jar",
+  "spider": "https://fmtv.xyz/public/fmtv/jar/custom.jar",
   "lives": [
     {
       "name": "直播 1 - 4GTV 🆕",
@@ -150,6 +150,69 @@
   "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
   "sites": [
     {
+      "key": "去读书",
+      "name": "去读书 | 小说",
+      "type": 3,
+      "contentType": "novel",
+      "api": "https://fmtv.xyz/public/fmtv/book/novel/去读书.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "零点小说",
+      "name": "零点 | 小说",
+      "type": 4,
+      "contentType": "novel",
+      "api": "https://fmtv.xyz/t4/odianxs?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "包子漫画",
+      "name": "包子 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/baozi2?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "栗子漫画",
+      "name": "栗子 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/lizimh?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "漫画人",
+      "name": "漫画人 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/manhuaren?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "再漫画",
+      "name": "再漫画 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "挽离",
+      "name": "挽离 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/wanlimh?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "非凡采集",
       "name": "🎬 非凡",
       "type": 1,
@@ -280,6 +343,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0
+    },
+    {
+      "key": "py_ppnix",
+      "name": "PPNIX | 影视 ",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/PPNIX?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "cnflix",
