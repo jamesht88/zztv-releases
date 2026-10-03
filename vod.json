@@ -261,11 +261,11 @@
       "changeable": 1
     },
     {
-      "key": "挽离",
-      "name": "挽离 | 漫画",
+      "key": "漫画人",
+      "name": "漫画人👍🏻 | 漫画",
       "type": 4,
       "contentType": "manga",
-      "api": "https://fmtv.xyz/t4/wanlimh?k=48027cf1b4860e0e94d83176e272a96b",
+      "api": "https://fmtv.xyz/t4/manhuaren?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -275,15 +275,6 @@
       "type": 4,
       "contentType": "manga",
       "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "漫画人",
-      "name": "漫画人 | 漫画",
-      "type": 4,
-      "contentType": "manga",
-      "api": "https://fmtv.xyz/t4/manhuaren?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
       "quickSearch": 1
     },
