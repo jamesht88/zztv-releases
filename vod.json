@@ -162,15 +162,6 @@
       "quickSearch": 1
     },
     {
-      "key": "零点小说",
-      "name": "零点 | 小说",
-      "type": 4,
-      "contentType": "novel",
-      "api": "https://fmtv.xyz/t4/odianxs?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "https://fmtv.xyz/public/fmtv/kfzhibo.py",
       "name": "⚽ 體育綜合",
       "type": 4,
