@@ -167,42 +167,12 @@
       "ext": "{\"proxy\":true,\"prefetch\":2}"
     },
     {
-      "key": "https://fmtv.xyz/public/fmtv/qiufeng.py",
-      "name": "秋风 | 4K",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/qiufeng?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": ""
-    },
-    {
-      "key": "GimyTV",
-      "name": "Gimy | 影视",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/gimyTV?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "粤漫",
-      "name": "粤漫 | 动漫",
+      "name": "粤漫 | 动漫(有廣東話) ",
       "type": 4,
       "api": "https://fmtv.xyz/t4/ymvid1?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "极影4K",
-      "name": "极影丨4K",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/4K免扫码.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/duboku.py",
