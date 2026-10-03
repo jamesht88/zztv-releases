@@ -79,28 +79,10 @@
   "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
   "sites": [
     {
-      "key": "liteapple",
-      "name": "🍏 小苹果 ",
-      "type": 3,
-      "jar": "https://fmtv.xyz/public/fmtv/jar/xpg.jar",
-      "api": "csp_XpgBox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "{\"proxy\":true,\"prefetch\":2}"
-    },
-    {
       "key": "非凡采集",
       "name": "🎬 非凡",
       "type": 1,
       "api": "https://2229527.xyz/caiji/feifan/feifan.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "暴风采集",
-      "name": "🎬 暴風",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/baofeng/baofeng.php",
       "searchable": 1,
       "changeable": 1
     },
@@ -114,6 +96,24 @@
       "filterable": 1,
       "order_num": 0,
       "ext": ""
+    },
+    {
+      "key": "liteapple",
+      "name": "🍏 小苹果 ",
+      "type": 3,
+      "jar": "https://fmtv.xyz/public/fmtv/jar/xpg.jar",
+      "api": "csp_XpgBox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "{\"proxy\":true,\"prefetch\":2}"
+    },
+    {
+      "key": "暴风采集",
+      "name": "🎬 暴風",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/baofeng/baofeng.php",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "红果短剧",
