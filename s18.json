@@ -12,6 +12,26 @@
       "filterable": 1
     },
     {
+      "key": "黄豆",
+      "name": "🔞 黄豆AI短劇",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib18/py/黄豆.py",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "黄果",
+      "name": "🔞 黄果AI短劇",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib18/py/黄果.py",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "fhapi9",
       "name": "🔞 番号",
       "type": 1,
@@ -143,26 +163,6 @@
           }
         }
       }
-    },
-    {
-      "key": "黄豆",
-      "name": "🔞 黄豆AI短劇",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib18/py/黄豆.py",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "黄果",
-      "name": "🔞 黄果AI短劇",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib18/py/黄果.py",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "Jable",
@@ -541,6 +541,14 @@
       "name": "🔞 滴滴",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vnzyz.com",
+      "name": "🔞 越南",
+      "type": 1,
+      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
