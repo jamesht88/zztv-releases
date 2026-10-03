@@ -79,34 +79,8 @@
   "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
   "sites": [
     {
-      "key": "去读书",
-      "name": "去读书 | 小说",
-      "type": 3,
-      "contentType": "novel",
-      "api": "https://fmtv.xyz/public/fmtv/book/novel/去读书.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "挽离",
-      "name": "挽离 | 漫画",
-      "type": 4,
-      "contentType": "manga",
-      "api": "https://fmtv.xyz/t4/wanlimh?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "红果短剧",
-      "name": "🍎 红果 | 短剧",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/py/红果.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "liteapple",
-      "name": "🍏 小苹果 | 影视",
+      "name": "🍏 小苹果 ",
       "type": 3,
       "jar": "https://fmtv.xyz/public/fmtv/jar/xpg.jar",
       "api": "csp_XpgBox",
@@ -115,42 +89,45 @@
       "ext": "{\"proxy\":true,\"prefetch\":2}"
     },
     {
+      "key": "非凡采集",
+      "name": "🎬 非凡",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/feifan/feifan.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "暴风采集",
+      "name": "🎬 暴風",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/baofeng/baofeng.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "https://fmtv.xyz/public/fmtv/duboku.py",
+      "name": "独播库 | 影视",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/dobuku?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": ""
+    },
+    {
+      "key": "红果短剧",
+      "name": "🍎 红果   短剧",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib/py/红果.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "西瓜短剧",
-      "name": "🍉 西瓜 | 短剧",
+      "name": "🍉 西瓜    短剧",
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/西瓜短剧.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "azdrama",
-      "name": "AZdrama | 影视",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/azdrama?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "Ofiii2",
-      "name": "Ofiii | 影视",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/py/ofiii.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "粤漫",
-      "name": "粤漫 | 动漫",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/ymvid1?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "GimyTV",
-      "name": "Gimy | 影视",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/gimyTV?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -191,155 +168,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": ""
-    },
-    {
-      "key": "https://fmtv.xyz/public/fmtv/qiufeng.py",
-      "name": "秋风 | 4K",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/qiufeng?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": ""
-    },
-    {
-      "key": "https://fmtv.xyz/public/fmtv/myasian.py",
-      "name": "MyAsian | EN",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/myasian?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": ""
-    },
-    {
-      "key": "https://fmtv.xyz/public/fmtv/67movies.py",
-      "name": "67Movies | EN",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/67movies?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": ""
-    },
-    {
-      "key": "https://fmtv.xyz/public/fmtv/moviebox.py",
-      "name": "MovieBox | EN",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/moviebox?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": ""
-    },
-    {
-      "key": "极影4K",
-      "name": "极影丨4K",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/4K免扫码.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-    },
-    {
-      "key": "https://fmtv.xyz/public/fmtv/duboku.py",
-      "name": "独播库 | 影视",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/dobuku?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": ""
-    },
-    {
-      "key": "非凡采集",
-      "name": "🎬 非凡",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/feifan/feifan.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "极风采集",
-      "name": "🎬 極風",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/wsy/wsy.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "暴风采集",
-      "name": "🎬 暴風",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/baofeng/baofeng.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "再漫画",
-      "name": "再漫画 | 漫画",
-      "type": 4,
-      "contentType": "manga",
-      "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "漫画人",
-      "name": "漫画人 | 漫画",
-      "type": 4,
-      "contentType": "manga",
-      "api": "https://fmtv.xyz/t4/manhuaren?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "零点小说",
-      "name": "零点 | 小说",
-      "type": 4,
-      "contentType": "novel",
-      "api": "https://fmtv.xyz/t4/odianxs?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "天涯采集",
-      "name": "🎬 天涯",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/tianya/tianya.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "最大采集",
-      "name": "🎬 最大",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/zuida/zuida.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "天堂采集",
-      "name": "🎬 天堂",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/dianying/dianying.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "索尼采集",
-      "name": "🎬 索尼",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/suoni/suoni.php",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "yfsp",
@@ -387,6 +215,137 @@
       }
     },
     {
+      "key": "https://fmtv.xyz/public/fmtv/qiufeng.py",
+      "name": "秋风 | 4K",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/qiufeng?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": ""
+    },
+    {
+      "key": "GimyTV",
+      "name": "Gimy | 影视",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/gimyTV?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "粤漫",
+      "name": "粤漫 | 动漫",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/ymvid1?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "极影4K",
+      "name": "极影丨4K",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib/4K免扫码.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
+    {
+      "key": "极风采集",
+      "name": "🎬 極風",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/wsy/wsy.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "挽离",
+      "name": "挽离 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/wanlimh?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "再漫画",
+      "name": "再漫画 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "漫画人",
+      "name": "漫画人 | 漫画",
+      "type": 4,
+      "contentType": "manga",
+      "api": "https://fmtv.xyz/t4/manhuaren?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "去读书",
+      "name": "去读书 | 小说",
+      "type": 3,
+      "contentType": "novel",
+      "api": "https://fmtv.xyz/public/fmtv/book/novel/去读书.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "零点小说",
+      "name": "零点 | 小说",
+      "type": 4,
+      "contentType": "novel",
+      "api": "https://fmtv.xyz/t4/odianxs?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "Ofiii2",
+      "name": "Ofiii | 影视",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib/py/ofiii.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "天涯采集",
+      "name": "🎬 天涯",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/tianya/tianya.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "最大采集",
+      "name": "🎬 最大",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/zuida/zuida.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "天堂采集",
+      "name": "🎬 天堂",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/dianying/dianying.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "索尼采集",
+      "name": "🎬 索尼",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/suoni/suoni.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "https://fmtv.xyz/public/fmtv/kfzhibo.py",
       "name": "⚽ 體育綜合",
       "type": 4,
@@ -406,6 +365,14 @@
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "azdrama",
+      "name": "AZdrama | 影视",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/azdrama?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "py_ppnix",
@@ -586,6 +553,39 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://fmtv.xyz/public/fmtv/drpy_js/360吧[球].js"
+    },
+    {
+      "key": "https://fmtv.xyz/public/fmtv/myasian.py",
+      "name": "MyAsian | EN",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/myasian?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": ""
+    },
+    {
+      "key": "https://fmtv.xyz/public/fmtv/moviebox.py",
+      "name": "MovieBox | EN",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/moviebox?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": ""
+    },
+    {
+      "key": "https://fmtv.xyz/public/fmtv/67movies.py",
+      "name": "67Movies | EN",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/67movies?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": ""
     }
   ],
   "doh": [
