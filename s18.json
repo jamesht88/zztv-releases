@@ -12,16 +12,6 @@
       "filterable": 1
     },
     {
-      "key": "黄豆",
-      "name": "🔞 黄豆AI短劇",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/jamesht88/zztv-releases@main/py/黄豆.py",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "黄果",
       "name": "🔞 黄果AI短劇",
       "type": 3,
