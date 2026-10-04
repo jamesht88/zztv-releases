@@ -517,11 +517,27 @@ class Spider(Spider):
             return {"list": []}
 
         pic = ""
-        m = re.search(r'<img[^>]*data-src="([^"]+)"[^>]*>', html)
+        # 1. 優先從播放頁或詳情頁海報容器取圖（精確匹配該視頻海報）
+        m = re.search(r'class=[\"\'][^\"\']*hg-web-play__poster[^\"\']*[\"\'][^>]*>.*?<img[^>]*data-src=[\"\']([^\"\']+)[\"\']', html, re.S)
         if m:
             pic = htmllib.unescape(m.group(1)).strip()
+        # 2. 優先比對 alt 標籤包含標題的海報
+        if not pic and title:
+            pm = re.search(r'<img[^>]*alt=[\"\']' + re.escape(title) + r'[\"\'][^>]*data-src=[\"\']([^\"\']+)[\"\']', html, re.I)
+            if pm:
+                pic = htmllib.unescape(pm.group(1)).strip()
+            else:
+                pm2 = re.search(r'<img[^>]*data-src=[\"\']([^\"\']+)[\"\'][^>]*alt=[\"\']' + re.escape(title) + r'[\"\']', html, re.I)
+                if pm2:
+                    pic = htmllib.unescape(pm2.group(1)).strip()
+        # 3. 頁面 OpenGraph 官方預覽圖
         if not pic:
-            m = re.search(r'<meta property="og:image" content="([^"]+)"', html)
+            m = re.search(r'<meta property=[\"\']og:image[\"\'][^>]*content=[\"\']([^\"\']+)[\"\']', html)
+            if m:
+                pic = htmllib.unescape(m.group(1)).strip()
+        # 4. 回退備用
+        if not pic:
+            m = re.search(r'<img[^>]*data-src="([^"]+)"[^>]*>', html)
             if m:
                 pic = htmllib.unescape(m.group(1)).strip()
 
