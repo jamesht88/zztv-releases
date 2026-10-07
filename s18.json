@@ -4,34 +4,6 @@
   "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
   "sites": [
     {
-      "key": "黄豆",
-      "name": "黄豆短剧",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib18/py/黄豆.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "soporn",
-      "name": "SoPorn",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/soporn?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "橙果",
-      "name": "橙果短剧",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/orangedj?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "xingba",
       "name": "🔞 杏吧",
       "type": 1,
@@ -40,14 +12,33 @@
       "filterable": 1
     },
     {
+      "key": "橙果",
+      "name": "🔞橙果🟠 AI短劇",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/orangedj?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "黄果",
-      "name": "🔞 黄果AI短劇",
+      "name": "🔞 黄果🟡AI短劇",
       "type": 3,
       "api": "https://fastly.jsdelivr.net/gh/jamesht88/zztv-releases@main/py/黄果.py",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "黄豆",
+      "name": "🔞 黄豆AI短劇",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib18/py/黄豆.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "fhapi9",
@@ -459,6 +450,15 @@
       "jar": "https://fmtv.xyz/public/fmtv/jar/xyqxbpq.jar",
       "timeout": 60,
       "ext": "https://fmtv.xyz/public/fmtv/lib18/18av.json"
+    },
+    {
+      "key": "soporn",
+      "name": "🔞 SoPorn",
+      "type": 4,
+      "api": "https://fmtv.xyz/t4/soporn?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "浮力ASMR",
