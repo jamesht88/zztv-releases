@@ -87,18 +87,18 @@
       "changeable": 1
     },
     {
-      "key": "最大采集",
-      "name": "🎬 最大",
-      "type": 1,
-      "api": "https://2229527.xyz/caiji/zuida/zuida.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "暴风采集",
       "name": "🎬 暴風",
       "type": 1,
       "api": "https://2229527.xyz/caiji/baofeng/baofeng.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "最大采集",
+      "name": "🎬 最大",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/zuida/zuida.php",
       "searchable": 1,
       "changeable": 1
     },
