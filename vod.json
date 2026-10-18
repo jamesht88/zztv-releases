@@ -507,24 +507,7 @@
       "ext": ""
     }
   ],
-  "doh": [
-    {
-      "name": "Tencent",
-      "url": "https://doh.pub/dns-query",
-      "ips": [
-        "119.29.29.29",
-        "1.12.12.12"
-      ]
-    },
-    {
-      "name": "AliDNS",
-      "url": "https://dns.alidns.com/dns-query",
-      "ips": [
-        "223.5.5.5",
-        "223.6.6.6"
-      ]
-    }
-  ],
+  "doh": [],
   "parses": [
     {
       "name": "Json聚合",
