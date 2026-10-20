@@ -104,7 +104,7 @@
     },
     {
       "key": "cctv",
-      "name": "CCTV | 直播",
+      "name": "CCTV 直播(中國直播頻道)",
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/ysp.py",
       "style": {
