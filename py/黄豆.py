@@ -290,26 +290,15 @@ class Spider(BaseSpider):
     def _classes(self):
         if self.class_cache:
             return self.class_cache
-        name_map = {
-            "all": "🎬 全部短剧",
-            "yuandou": "🌟 黄豆原创",
-            "mod": "🪄 魔改短剧",
-            "caibian": "💋 擦边短剧",
-            "zhenren": "💃 真人短剧",
-            "erciyuan": "🎨 成人动漫",
-            "aiman": "🍿 私享影院",
-            "zongyi": "🧘 贤者专区",
-            "heiliao": "🍉 劲爆黑料"
-        }
-        arr = [{"type_id": "all", "type_name": name_map.get("all", "🎬 全部短剧")}]
+        arr = [{"type_id": "all", "type_name": "全部短剧"}]
         data = self._api("/drama/navList", {})
+        # 兼容多种数据结构
         items = self._list(data.get("data", data) if isinstance(data, dict) else data)
         for item in items:
             tid = str(item.get("code") or item.get("id") or item.get("cat_id") or "")
             name = item.get("name") or item.get("title") or tid
             if tid and name:
-                display_name = name_map.get(tid, f"🎬 {name}")
-                arr.append({"type_id": tid, "type_name": display_name})
+                arr.append({"type_id": tid, "type_name": name})
         self.class_cache = arr
         return arr
 
