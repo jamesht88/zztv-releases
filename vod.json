@@ -132,7 +132,7 @@
     },
     {
       "key": "oneball",
-      "name": "Sport⛹🏻‍♂️直播及回放⚽️",
+      "name": "Sport直播及回放⚽️⛹🏻‍♂️",
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/oneball_en.py",
       "style": {
