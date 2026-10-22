@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android_TV_|_Phone_|_Mac_|_PC-orange.svg)](https://zztv.store)
 [![Daily Update](https://img.shields.io/badge/Sources_Health-Daily_Verified-success.svg)](https://zztv.store)
 
-> **最後自動維護檢測時間**：`2026-10-22 11:31:43 (HKT) [驗證通過 0.1s]`  
+> **最後自動維護檢測時間**：`2026-10-22 11:32:45 (HKT) [驗證通過 0.1s]`  
 > 本項目為廣大安卓電視、電視盒子（小米盒子、外貿機頂盒、Google TV、Apple TV）用戶提供 **2026 最新穩定、高畫質、零卡頓的電視直播與影視配置源**。全站直連香港 Anycast 骨幹網絡，拒絕頻繁失效的空殼接口。
 
 ---
