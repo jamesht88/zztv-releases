@@ -84,7 +84,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/feifan/feifan.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "暴风采集",
@@ -92,7 +93,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/baofeng/baofeng.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "最大采集",
@@ -100,7 +102,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/zuida/zuida.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "cctv",
@@ -112,7 +115,8 @@
         "ratio": 1.77
       },
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "红果短剧",
@@ -120,7 +124,8 @@
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/红果.py",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "西瓜短剧",
@@ -128,7 +133,8 @@
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/西瓜短剧.py",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "oneball",
@@ -142,7 +148,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/kfzhibo.py",
@@ -155,7 +162,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 0
+      "order_num": 0,
+      "changeable": 1
     },
     {
       "key": "漫画人",
@@ -164,7 +172,8 @@
       "contentType": "manga",
       "api": "https://fmtv.xyz/t4/manhuaren?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "去读书",
@@ -173,7 +182,8 @@
       "contentType": "novel",
       "api": "https://fmtv.xyz/public/fmtv/book/novel/去读书.py",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "再漫画",
@@ -182,7 +192,8 @@
       "contentType": "manga",
       "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "天涯采集",
@@ -190,7 +201,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/tianya/tianya.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "可可影视",
@@ -198,7 +210,8 @@
       "type": 4,
       "api": "https://fmtv.xyz/t4/keke?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/olehd.py",
@@ -209,7 +222,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     },
     {
       "key": "liteapple",
@@ -219,7 +233,8 @@
       "api": "csp_XpgBox",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "{\"proxy\":true,\"prefetch\":2}"
+      "ext": "{\"proxy\":true,\"prefetch\":2}",
+      "changeable": 1
     },
     {
       "key": "粤漫",
@@ -227,7 +242,8 @@
       "type": 4,
       "api": "https://fmtv.xyz/t4/ymvid1?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/duboku.py",
@@ -238,7 +254,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     },
     {
       "key": "极风采集",
@@ -246,7 +263,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/wsy/wsy.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "Ofiii2",
@@ -254,7 +272,8 @@
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/ofiii.py",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "天堂采集",
@@ -262,7 +281,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/dianying/dianying.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "索尼采集",
@@ -270,7 +290,8 @@
       "type": 1,
       "api": "https://2229527.xyz/caiji/suoni/suoni.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "极速资源",
@@ -278,7 +299,8 @@
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "quickSearch": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/zhufeng.py",
@@ -289,7 +311,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     },
     {
       "key": "azdrama",
@@ -297,7 +320,8 @@
       "type": 4,
       "api": "https://fmtv.xyz/t4/azdrama?k=48027cf1b4860e0e94d83176e272a96b",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "py_ppnix",
@@ -315,7 +339,8 @@
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/py/guazi.py",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "cnflix",
@@ -326,7 +351,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/cnflix.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/cnflix.json",
+      "changeable": 1
     },
     {
       "key": "py_jieyingshi",
@@ -343,7 +369,10 @@
       "name": "🎬 欧乐",
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
-      "ext": "https://fmtv.xyz/public/fmtv/lib/欧乐影院[飞].js"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/欧乐影院[飞].js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "哈哈影视",
@@ -353,14 +382,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/哈哈影视.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/哈哈影视.json",
+      "changeable": 1
     },
     {
       "key": "drpy_豆瓣",
       "name": "🎬 豆瓣",
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
-      "ext": "https://fmtv.xyz/public/fmtv/lib/douban.js"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/douban.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "PTT",
@@ -392,14 +425,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/网飞啦.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/网飞啦.json",
+      "changeable": 1
     },
     {
       "key": "drpy_js_去看吧",
       "name": "👾 去看吧",
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib/drpy2.min.js",
-      "ext": "https://fmtv.xyz/public/fmtv/drpy_js/去看吧.js"
+      "ext": "https://fmtv.xyz/public/fmtv/drpy_js/去看吧.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "小宝影院",
@@ -410,7 +447,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/小宝影院.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/小宝影院.json",
+      "changeable": 1
     },
     {
       "key": "永乐",
@@ -421,7 +459,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/永乐影视.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/永乐影视.json",
+      "changeable": 1
     },
     {
       "key": "Euvod影视",
@@ -432,7 +471,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/Euvod影视.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/Euvod影视.json",
+      "changeable": 1
     },
     {
       "key": "巴士",
@@ -441,7 +481,8 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar"
+      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar",
+      "quickSearch": 1
     },
     {
       "key": "異界",
@@ -450,7 +491,8 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar"
+      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar",
+      "quickSearch": 1
     },
     {
       "key": "ppxdm",
@@ -461,7 +503,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib/ppxdm.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib/ppxdm.json",
+      "changeable": 1
     },
     {
       "key": "看球",
@@ -469,11 +512,12 @@
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "style": {
         "type": "list"
       },
-      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar"
+      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar",
+      "quickSearch": 1
     },
     {
       "key": "hipy_js_360吧[球]",
@@ -485,7 +529,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fmtv.xyz/public/fmtv/drpy_js/360吧[球].js"
+      "ext": "https://fmtv.xyz/public/fmtv/drpy_js/360吧[球].js",
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/myasian.py",
@@ -496,7 +541,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/moviebox.py",
@@ -507,7 +553,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/67movies.py",
@@ -518,7 +565,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": ""
+      "ext": "",
+      "changeable": 1
     }
   ],
   "doh": [],

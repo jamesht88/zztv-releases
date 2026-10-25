@@ -59,7 +59,9 @@
         "丝袜美腿",
         "卡通漫画",
         "欧美风情"
-      ]
+      ],
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "xiangjiao",
@@ -67,7 +69,9 @@
       "type": 1,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "fhapi9",
@@ -75,7 +79,9 @@
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "hsckzy",
@@ -83,7 +89,7 @@
       "type": 1,
       "api": "https://hsckzy888.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
       "categories": [
         "网红主播",
@@ -122,7 +128,8 @@
         "泰国风情",
         "OnlyFans",
         "AI短剧"
-      ]
+      ],
+      "changeable": 1
     },
     {
       "key": "ckzy",
@@ -130,8 +137,9 @@
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "py_Miss",
@@ -139,9 +147,9 @@
       "type": 3,
       "api": "https://fmtv.xyz/public/fmtv/lib18/py/py_missav.py",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "MissAV",
@@ -195,7 +203,8 @@
           }
         }
       },
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1
     },
     {
       "key": "Supjav",
@@ -208,7 +217,9 @@
       "style": {
         "type": "rect",
         "ratio": 1.77
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "https://fmtv.xyz/public/fmtv/hkdoll.py",
@@ -222,7 +233,8 @@
         "type": "rect",
         "ratio": 1.49
       },
-      "order_num": 0
+      "order_num": 0,
+      "changeable": 1
     },
     {
       "key": "Supjav2",
@@ -292,7 +304,8 @@
             "loadUrl": "https://supjav.com/zh/page/${pg:-1}?s=${key}"
           }
         }
-      }
+      },
+      "quickSearch": 1
     },
     {
       "key": "黄豆",
@@ -325,14 +338,16 @@
       "style": {
         "type": "rect",
         "ratio": 1.77
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "Jable2",
       "name": "🔞 Jable 2",
       "type": 3,
       "searchable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "style": {
         "type": "rect",
         "ratio": 1.48
@@ -374,14 +389,18 @@
             "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
           }
         }
-      }
+      },
+      "quickSearch": 1
     },
     {
       "key": "mixed_av",
       "name": "🔞 Mixed Av",
       "type": 3,
       "api": "csp_mixed",
-      "homePage": "https://2229527.xyz/html/mixed.html"
+      "homePage": "https://2229527.xyz/html/mixed.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "netflav",
@@ -431,7 +450,8 @@
             "loadUrl": "https://netflav.com/search?keyword=${key}&page=${pg:-1}&type=title"
           }
         }
-      }
+      },
+      "quickSearch": 1
     },
     {
       "key": "123av",
@@ -483,7 +503,8 @@
             "loadUrl": "https://123av.com/zh/search?keyword=${key}&page=${pg:-1}"
           }
         }
-      }
+      },
+      "quickSearch": 1
     },
     {
       "key": "XOJAV",
@@ -527,7 +548,8 @@
             "loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
           }
         }
-      }
+      },
+      "quickSearch": 1
     },
     {
       "key": "Xojav2",
@@ -558,7 +580,8 @@
       },
       "jar": "https://fmtv.xyz/public/fmtv/jar/XBPQ.jar",
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib18/19madou.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib18/19madou.json",
+      "changeable": 1
     },
     {
       "key": "爱豆传媒",
@@ -574,7 +597,8 @@
       },
       "jar": "https://fmtv.xyz/public/fmtv/jar/XBPQ.jar",
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib18/rourou.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib18/rourou.json",
+      "changeable": 1
     },
     {
       "key": "18AV",
@@ -590,7 +614,9 @@
       },
       "jar": "https://fmtv.xyz/public/fmtv/jar/xyqxbpq.jar",
       "timeout": 60,
-      "ext": "https://fmtv.xyz/public/fmtv/lib18/18av.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib18/18av.json",
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "浮力ASMR",
@@ -601,7 +627,10 @@
         "type": "rect",
         "ratio": 1.5
       },
-      "ext": "https://fmtv.xyz/public/fmtv/lib18/asmr.json"
+      "ext": "https://fmtv.xyz/public/fmtv/lib18/asmr.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "精品",
@@ -637,7 +666,9 @@
         "激情中字",
         "东南亚",
         "AI短剧"
-      ]
+      ],
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "淫水机",
@@ -647,7 +678,8 @@
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "香奶儿",
@@ -657,7 +689,8 @@
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "白嫖",
@@ -667,7 +700,8 @@
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "黄AV",
@@ -677,7 +711,8 @@
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "soporn",
@@ -690,7 +725,10 @@
         "嗅探词": "index.m3u8",
         "简介": "name=\"description\" content=\"&&\"/>",
         "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"
-      }
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "155zy.com",
@@ -698,7 +736,9 @@
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "tantanzy.com",
@@ -706,7 +746,9 @@
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "gqzy.me",
@@ -714,7 +756,9 @@
       "type": 1,
       "api": "https://caiji.gqjiexi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "lebozy.com",
@@ -722,7 +766,9 @@
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "laoyazy.com",
@@ -730,7 +776,9 @@
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "senlinzy.com",
@@ -738,7 +786,9 @@
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "didizy.com",
@@ -774,7 +824,9 @@
         "SM调教",
         "女同系列",
         "男同系列"
-      ]
+      ],
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "haosezyw.com",
@@ -782,7 +834,9 @@
       "type": 1,
       "api": "https://haosezyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "vnzyz.com",
@@ -810,7 +864,9 @@
         "男同女同",
         "VR资源",
         "JAV高清"
-      ]
+      ],
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "sesehuzy.com",
@@ -818,7 +874,9 @@
       "type": 1,
       "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "laosebizy.com",
@@ -826,7 +884,9 @@
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "bttcj.com",
@@ -842,7 +902,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "semaozy.com",
@@ -850,7 +912,9 @@
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "lajiaozy.com",
@@ -858,7 +922,9 @@
       "type": 1,
       "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "玉兔资源",
@@ -870,7 +936,8 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "quickSearch": 1
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "wmcj8.com",
@@ -886,7 +953,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "91md.me",
@@ -903,7 +972,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "dadiapi.com",
@@ -919,7 +990,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "llzxcj.com",
@@ -935,7 +1008,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "api.11bat.com",
@@ -951,7 +1026,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "api.maozyapi.com",
@@ -968,7 +1045,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "shayuapi.com",
@@ -985,7 +1064,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "afasu.com",
@@ -1001,7 +1082,9 @@
       "header": {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
+      },
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "souav",
@@ -1100,7 +1183,8 @@
         "地雷系",
         "白菜妹妹",
         "小二先生"
-      ]
+      ],
+      "changeable": 1
     },
     {
       "key": "AV资源",
@@ -1201,7 +1285,8 @@
         "地雷系",
         "白菜妹妹",
         "小二先生"
-      ]
+      ],
+      "quickSearch": 1
     },
     {
       "key": "大奶子",
@@ -1247,7 +1332,8 @@
         "变性伪娘",
         "女同性恋",
         "野外露出"
-      ]
+      ],
+      "quickSearch": 1
     },
     {
       "key": "麻豆视频",
@@ -1257,25 +1343,28 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "proxy"
+      "ext": "proxy",
+      "changeable": 1
     },
     {
       "key": "淫水机资源站",
       "name": "水机 | 采集",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "proxy"
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "proxy",
+      "changeable": 1
     },
     {
       "key": "香奶儿资源站",
       "name": "香奶 | 采集",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "proxy"
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "proxy",
+      "changeable": 1
     },
     {
       "key": "小湿妹",
@@ -1284,7 +1373,8 @@
       "api": "http://www.afasu.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "proxy"
+      "ext": "proxy",
+      "changeable": 1
     },
     {
       "key": "奶香香",
@@ -1345,7 +1435,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "proxy"
+      "ext": "proxy",
+      "changeable": 1
     },
     {
       "key": "嘿嘿场",
@@ -1417,7 +1508,8 @@
         "其他传媒",
         "米菲兔",
         "短视频"
-      ]
+      ],
+      "changeable": 1
     }
   ]
 }
