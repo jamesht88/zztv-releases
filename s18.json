@@ -322,62 +322,13 @@
    "key": "Jable",
    "name": "🔞 Jable",
    "type": 3,
-   "api": "csp_Jable",
+   "api": "https://zztv.store/py18/jable.py",
    "searchable": 1,
    "recordable": 0,
    "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar",
    "style": {
     "type": "rect",
     "ratio": 1.77
-   }
-  },
-  {
-   "key": "Jable2",
-   "name": "🔞 Jable 2",
-   "type": 3,
-   "searchable": 1,
-   "changeable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.48
-   },
-   "api": "csp_GM",
-   "jar": "https://fmtv.xyz/public/fmtv/jar/GM.jar",
-   "ext": {
-    "userScript": "https://fmtv.xyz/public/fmtv/userScripts18/jable.user.js",
-    "debug": false,
-    "webViewSettings": {
-     "blockNetworkImage": true,
-     "blockList": [
-      "*.ico",
-      "https://fmtv.xyz/public/fmtv/*.png",
-      "https://*.adsco.re/*",
-      "https://*.googleapis.com/*",
-      "https://*.googlesyndication.com/*",
-      "https://*.googletagmanager.com/*",
-      "https://*.hpyjmp.com/*",
-      "https://*.magsrv.com/*",
-      "https://*.mnaspm.com/*",
-      "https://*.shukriya90.com/*",
-      "https://*.tapioni.com/*",
-      "https://*.tsyndicate.com/*",
-      "https://fmtv.xyz/public/fmtv/lib18/player.js"
-     ]
-    },
-    "spider": {
-     "homeContent": {
-      "loadUrl": "https://jable.tv"
-     },
-     "categoryContent": {
-      "loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
-     },
-     "detailContent": {
-      "loadUrl": "https://jable.tv/videos/${id}/"
-     },
-     "searchContent": {
-      "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
-     }
-    }
    }
   },
   {
