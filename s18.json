@@ -348,7 +348,7 @@
     "type": "rect",
     "ratio": 1.48
    },
-   "api": "csp_GM",
+   "api": "https://zztv.store/py18/netflav2.py",
    "jar": "https://fmtv.xyz/public/fmtv/jar/GM.jar",
    "ext": {
     "userScript": "https://fmtv.xyz/public/fmtv/userScripts18/netflav.user.js",
