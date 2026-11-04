@@ -516,6 +516,19 @@
    "ext": "https://fmtv.xyz/public/fmtv/lib18/19madou.json"
   },
   {
+   "key": "py18_rou",
+   "name": "🔞 肉视频",
+   "type": 3,
+   "api": "https://zztv.store/py18/rou.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.49
+   }
+  },
+  {
    "key": "爱豆传媒",
    "name": "🔞 爱豆传媒",
    "type": 3,
