@@ -1321,7 +1321,7 @@
    "key": "量子倫理",
    "name": "🔞 量子倫理",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&noflat=1",
    "searchable": 1,
    "filterable": 1,
    "categories": [
