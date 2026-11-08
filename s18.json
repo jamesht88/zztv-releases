@@ -1304,7 +1304,7 @@
    "key": "無盡擦邊",
    "name": "🔞 無盡擦邊短劇",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
+   "api": "https://api.wujinapi.com/api.php/provide/vod",
    "searchable": 1,
    "filterable": 1,
    "categories": [
@@ -1321,7 +1321,7 @@
    "key": "量子倫理",
    "name": "🔞 量子倫理",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
    "searchable": 1,
    "filterable": 1,
    "categories": [
