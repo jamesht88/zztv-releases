@@ -599,16 +599,42 @@
    "api": "https://cj.lziapi.com/api.php/provide/vod",
    "searchable": 1,
    "changeable": 1,
-   "quickSearch": 1
-  },
-  {
-   "key": "艾旦采集",
-   "name": "🎬 艾旦資源",
-   "type": 1,
-   "api": "https://lovedan.net/api.php/provide/vod",
-   "searchable": 1,
-   "changeable": 1,
-   "quickSearch": 1
+   "quickSearch": 1,
+   "categories": [
+    "电影片",
+    "连续剧",
+    "综艺片",
+    "动漫片",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "国产剧",
+    "香港剧",
+    "韩国剧",
+    "欧美剧",
+    "记录片",
+    "台湾剧",
+    "日本剧",
+    "海外剧",
+    "泰国剧",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺",
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "港台动漫",
+    "海外动漫",
+    "电影解说",
+    "预告片",
+    "短剧",
+    "动画片"
+   ]
   },
   {
    "key": "無盡采集",
@@ -617,7 +643,50 @@
    "api": "https://api.wujinapi.com/api.php/provide/vod",
    "searchable": 1,
    "changeable": 1,
-   "quickSearch": 1
+   "quickSearch": 1,
+   "categories": [
+    "电影",
+    "连续剧",
+    "综艺",
+    "动漫",
+    "资讯",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "国产剧",
+    "香港剧",
+    "台湾剧",
+    "美国剧",
+    "公告",
+    "头条",
+    "纪录片",
+    "韩国剧",
+    "日本剧",
+    "海外剧",
+    "大陆综艺",
+    "日韩综艺",
+    "港台综艺",
+    "欧美综艺",
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "悬疑片",
+    "动画片",
+    "犯罪片",
+    "奇幻片",
+    "邵氏电影",
+    "泰剧",
+    "影视解说",
+    "短剧",
+    "港台动漫",
+    "海外动漫",
+    "演唱会",
+    "预告片"
+   ]
   },
   {
    "key": "飄零采集",
@@ -645,6 +714,92 @@
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1
+  },
+  {
+   "key": "量子體育",
+   "name": "⚽ 體育直播及重播",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "体育",
+    "足球",
+    "篮球",
+    "网球",
+    "斯诺克"
+   ]
+  },
+  {
+   "key": "量子AI漫劇",
+   "name": "🤖 量子 AI 漫劇",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "AI漫剧"
+   ]
+  },
+  {
+   "key": "無盡體育",
+   "name": "⚽ 足球籃球直播及重播",
+   "type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "体育赛事",
+    "篮球",
+    "足球"
+   ]
+  },
+  {
+   "key": "無盡短劇AI劇",
+   "name": "🎭 無盡短劇及AI劇",
+   "type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "有声动漫",
+    "女频恋爱",
+    "反转爽剧",
+    "脑洞悬疑",
+    "年代穿越",
+    "古装仙侠",
+    "现代都市",
+    "漫剧"
+   ]
+  },
+  {
+   "key": "無盡兒歌",
+   "name": "🎵 英文兒歌",
+   "type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "儿童儿歌"
+   ]
+  },
+  {
+   "key": "無盡Netflix",
+   "name": "🎬 Netflix",
+   "type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "Netflix电影",
+    "Netflix自制剧"
+   ]
   }
  ],
  "doh": [],
