@@ -310,16 +310,6 @@
       "changeable": 1
     },
     {
-      "key": "再漫画",
-      "name": "再漫画 | 漫画",
-      "type": 4,
-      "contentType": "manga",
-      "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "暴风采集",
       "name": "🎬 暴風",
       "type": 1,
