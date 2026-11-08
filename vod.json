@@ -150,7 +150,7 @@
    "key": "無盡Netflix",
    "name": "𝐍𝐄𝐓𝐅𝐋𝐈𝐗🔴",
    "type": 1,
-   "api": "https://zztv.store/px/nf?nf=1",
+   "api": "https://zztv.store/px/nf?nf=1&v=2",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
