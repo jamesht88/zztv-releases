@@ -121,26 +121,17 @@
       "quickSearch": 1
     },
     {
-      "key": "最大采集",
-      "name": "🎬 最大",
+      "key": "無盡Netflix",
+      "name": "🎬 Netflix",
       "type": 1,
-      "api": "https://2229527.xyz/caiji/zuida/zuida.php",
+      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
       "searchable": 1,
       "changeable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "cctv",
-      "name": "CCTV 直播(中國直播頻道)",
-      "type": 3,
-      "api": "https://fmtv.xyz/public/fmtv/lib/py/ysp.py",
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      },
-      "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "categories": [
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
     },
     {
       "key": "红果短剧",
@@ -159,6 +150,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "量子AI漫劇",
+      "name": "🤖 量子 AI 漫劇",
+      "type": 1,
+      "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "AI漫剧"
+      ]
+    },
+    {
+      "key": "無盡短劇AI劇",
+      "name": "🎭 無盡短劇及AI劇",
+      "type": 1,
+      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "有声动漫",
+        "女频恋爱",
+        "反转爽剧",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "现代都市",
+        "漫剧"
+      ]
     },
     {
       "key": "oneball",
@@ -240,11 +262,45 @@
       "changeable": 1
     },
     {
+      "key": "最大采集",
+      "name": "🎬 最大",
+      "type": 1,
+      "api": "https://2229527.xyz/caiji/zuida/zuida.php",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "再漫画",
       "name": "再漫画 | 漫画",
       "type": 4,
       "contentType": "manga",
       "api": "https://fmtv.xyz/t4/zaimanhua?k=48027cf1b4860e0e94d83176e272a96b",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "無盡兒歌",
+      "name": "🎵 英文兒歌",
+      "type": 1,
+      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "儿童儿歌"
+      ]
+    },
+    {
+      "key": "cctv",
+      "name": "CCTV 直播(中國直播頻道)",
+      "type": 3,
+      "api": "https://fmtv.xyz/public/fmtv/lib/py/ysp.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      },
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -731,62 +787,6 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "量子AI漫劇",
-      "name": "🤖 量子 AI 漫劇",
-      "type": 1,
-      "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "AI漫剧"
-      ]
-    },
-    {
-      "key": "無盡短劇AI劇",
-      "name": "🎭 無盡短劇及AI劇",
-      "type": 1,
-      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "有声动漫",
-        "女频恋爱",
-        "反转爽剧",
-        "脑洞悬疑",
-        "年代穿越",
-        "古装仙侠",
-        "现代都市",
-        "漫剧"
-      ]
-    },
-    {
-      "key": "無盡兒歌",
-      "name": "🎵 英文兒歌",
-      "type": 1,
-      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "儿童儿歌"
-      ]
-    },
-    {
-      "key": "無盡Netflix",
-      "name": "🎬 Netflix",
-      "type": 1,
-      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "Netflix电影",
-        "Netflix自制剧"
-      ]
     }
   ],
   "doh": [],
