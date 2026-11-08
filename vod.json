@@ -792,7 +792,7 @@
    "key": "無盡Netflix",
    "name": "🎬 Netflix",
    "type": 1,
-   "api": "https://api.wujinapi.com/api.php/provide/vod",
+   "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod?idx=1&cats=60,61",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
