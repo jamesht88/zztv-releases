@@ -103,6 +103,78 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
+   "key": "量子采集",
+   "name": "🎬 量子資源",
+   "type": 1,
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "电影片",
+    "连续剧",
+    "综艺片",
+    "动漫片",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "国产剧",
+    "香港剧",
+    "韩国剧",
+    "欧美剧",
+    "记录片",
+    "台湾剧",
+    "日本剧",
+    "海外剧",
+    "泰国剧",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺",
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "港台动漫",
+    "海外动漫",
+    "电影解说",
+    "预告片",
+    "短剧",
+    "动画片"
+   ]
+  },
+  {
+   "key": "量子體育",
+   "name": "⚽ 體育直播及重播",
+   "type": 1,
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "体育",
+    "足球",
+    "篮球",
+    "网球",
+    "斯诺克"
+   ]
+  },
+  {
+   "key": "量子AI漫劇",
+   "name": "🤖 量子 AI 漫劇",
+   "type": 1,
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "categories": [
+    "AI漫剧"
+   ]
+  },
+  {
    "key": "非凡采集",
    "name": "🎬 非凡",
    "type": 1,
@@ -593,50 +665,6 @@
    "changeable": 1
   },
   {
-   "key": "量子采集",
-   "name": "🎬 量子資源",
-   "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
-   "searchable": 1,
-   "changeable": 1,
-   "quickSearch": 1,
-   "categories": [
-    "电影片",
-    "连续剧",
-    "综艺片",
-    "动漫片",
-    "动作片",
-    "喜剧片",
-    "爱情片",
-    "科幻片",
-    "恐怖片",
-    "剧情片",
-    "战争片",
-    "国产剧",
-    "香港剧",
-    "韩国剧",
-    "欧美剧",
-    "记录片",
-    "台湾剧",
-    "日本剧",
-    "海外剧",
-    "泰国剧",
-    "大陆综艺",
-    "港台综艺",
-    "日韩综艺",
-    "欧美综艺",
-    "国产动漫",
-    "日韩动漫",
-    "欧美动漫",
-    "港台动漫",
-    "海外动漫",
-    "电影解说",
-    "预告片",
-    "短剧",
-    "动画片"
-   ]
-  },
-  {
    "key": "無盡采集",
    "name": "🎬 無盡資源",
    "type": 1,
@@ -714,34 +742,6 @@
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1
-  },
-  {
-   "key": "量子體育",
-   "name": "⚽ 體育直播及重播",
-   "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
-   "searchable": 1,
-   "changeable": 1,
-   "quickSearch": 1,
-   "categories": [
-    "体育",
-    "足球",
-    "篮球",
-    "网球",
-    "斯诺克"
-   ]
-  },
-  {
-   "key": "量子AI漫劇",
-   "name": "🤖 量子 AI 漫劇",
-   "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1",
-   "searchable": 1,
-   "changeable": 1,
-   "quickSearch": 1,
-   "categories": [
-    "AI漫剧"
-   ]
   },
   {
    "key": "無盡體育",
