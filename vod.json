@@ -176,6 +176,36 @@
       "changeable": 1
     },
     {
+      "key": "量子體育",
+      "name": "⚽ 體育直播及重播-01",
+      "type": 1,
+      "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "体育",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ]
+    },
+    {
+      "key": "無盡體育",
+      "name": "⚽ 足球籃球直播及重播-02",
+      "type": 1,
+      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "体育赛事",
+        "篮球",
+        "足球"
+      ]
+    },
+    {
       "key": "https://fmtv.xyz/public/fmtv/kfzhibo.py",
       "name": "⚽ 體育綜合",
       "type": 4,
@@ -531,19 +561,6 @@
       "changeable": 1
     },
     {
-      "key": "看球",
-      "name": "⚽ 88看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      },
-      "jar": "https://fmtv.xyz/public/fmtv/jar/custom_spider.jar",
-      "quickSearch": 1
-    },
-    {
       "key": "hipy_js_360吧[球]",
       "name": "🎬 360吧",
       "type": 3,
@@ -716,22 +733,6 @@
       "quickSearch": 1
     },
     {
-      "key": "量子體育",
-      "name": "⚽ 體育直播及重播",
-      "type": 1,
-      "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ]
-    },
-    {
       "key": "量子AI漫劇",
       "name": "🤖 量子 AI 漫劇",
       "type": 1,
@@ -741,20 +742,6 @@
       "quickSearch": 1,
       "categories": [
         "AI漫剧"
-      ]
-    },
-    {
-      "key": "無盡體育",
-      "name": "⚽ 足球籃球直播及重播",
-      "type": 1,
-      "api": "https://zztv.store/px/https%3A%2F%2Fapi.wujinapi.com%2Fapi.php%2Fprovide%2Fvod",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "体育赛事",
-        "篮球",
-        "足球"
       ]
     },
     {
