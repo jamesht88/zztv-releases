@@ -103,10 +103,10 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
-   "key": "占占NetflixMix15",
+   "key": "占占NetflixMix16",
    "name": "占占𝐍𝐄𝐓𝐅𝐋𝐈𝐗🔴",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=14",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=15",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
