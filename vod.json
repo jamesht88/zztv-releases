@@ -103,14 +103,15 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
-   "key": "占占Main",
-   "name": "🎬 占占👍🏻",
+   "key": "占占NetflixMix13",
+   "name": "占占𝐍𝐄𝐓𝐅𝐋𝐈𝐗🔴",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=11",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=12",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
    "categories": [
+    "𝐍𝐄𝐓𝐅𝐋𝐈𝐗",
     "電影片",
     "連續劇",
     "綜藝片",
@@ -123,22 +124,6 @@
     "动漫片",
     "电影解说",
     "短剧"
-   ]
-  },
-  {
-   "key": "netflix5",
-   "name": "𝐍𝐄𝐓𝐅𝐋𝐈𝐗",
-   "type": 3,
-   "api": "https://zztv.store/px/nf?nf=1&v=11",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "categories": [
-    "Netflix 電影",
-    "Netflix 劇集",
-    "Netflix 綜藝",
-    "Netflix 動畫電影",
-    "Netflix 動畫劇集"
    ]
   },
   {
