@@ -103,10 +103,10 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
-   "key": "占占NetflixMix18",
+   "key": "占占NetflixMix19",
    "name": "占占𝐍𝐄𝐓𝐅𝐋𝐈𝐗🔴",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=17",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=18",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
@@ -115,17 +115,11 @@
     "Netflix劇集",
     "Netflix綜藝",
     "Netflix動畫",
-    "電影片",
-    "連續劇",
-    "綜藝片",
-    "動漫片",
-    "AI漫劇",
-    "電影解說",
-    "短劇",
     "电影片",
     "连续剧",
     "综艺片",
     "动漫片",
+    "AI漫剧",
     "电影解说",
     "短剧"
    ]
