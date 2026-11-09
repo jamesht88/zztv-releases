@@ -125,6 +125,21 @@
    ]
   },
   {
+   "key": "disney337",
+   "name": "𝐃𝐈𝐒𝐍𝐄𝐘🔵",
+   "type": 3,
+   "api": "https://zztv.store/px/nf?nf=1&pv=337",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "categories": [
+    "Disney電影",
+    "Disney劇集",
+    "Disney綜藝",
+    "Disney動畫"
+   ]
+  },
+  {
    "key": "非凡采集",
    "name": "🎬 非凡",
    "type": 1,
