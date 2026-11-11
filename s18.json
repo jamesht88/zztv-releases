@@ -4,12 +4,13 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
-   "key": "haoYong",
+   "key": "haoYong1",
    "name": "🔞 很好用",
    "type": 1,
-   "api": "https://xingba222.com/api.php/provide/vod/",
+   "api": "https://zztv.store/api/config?hao=1",
    "searchable": 1,
-   "filterable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
    "categories": [
     "FC2無碼",
     "偷拍",
