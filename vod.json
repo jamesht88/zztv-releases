@@ -103,10 +103,10 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
-   "key": "占占Mix28",
+   "key": "占占Mix29",
    "name": "😎占占萬能專線😎",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=27",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=28",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
@@ -125,8 +125,10 @@
     "AI漫剧",
     "电影解说",
     "短剧",
-    "🏀籃球直/重播",
-    "⚽️足球直/重播"
+    "⚽️足球直播",
+    "🏀籃球直播",
+    "⚽️足球錄像",
+    "🏀籃球錄像"
    ]
   },
   {
