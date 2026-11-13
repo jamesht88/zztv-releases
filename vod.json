@@ -103,10 +103,10 @@
  "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
  "sites": [
   {
-   "key": "占占Mix27",
-   "name": "𝐍𝐄𝐓𝐅𝐋𝐈𝐗🔴迪士尼𝓓-占占專線",
+   "key": "占占Mix28",
+   "name": "😎占占萬能專線😎",
    "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=26",
+   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=27",
    "searchable": 1,
    "changeable": 1,
    "quickSearch": 1,
@@ -115,16 +115,18 @@
     "连续剧",
     "综艺片",
     "动漫片",
-    "Netflix電影",
-    "Netflix劇集",
-    "Netflix綜藝",
-    "Netflix動畫",
-    "Disney電影",
-    "Disney劇集",
-    "Disney綜藝",
+    "𝐍𝐄𝐓𝐅𝐋𝐈𝐗電影",
+    "𝐍𝐄𝐓𝐅𝐋𝐈𝐗劇集",
+    "𝐍𝐄𝐓𝐅𝐋𝐈𝐗綜藝",
+    "𝐍𝐄𝐓𝐅𝐋𝐈𝐗動畫",
+    "𝓓isney電影",
+    "𝓓isney劇集",
+    "𝓓isney綜藝",
     "AI漫剧",
     "电影解说",
-    "短剧"
+    "短剧",
+    "🏀籃球直/重播",
+    "⚽️足球直/重播"
    ]
   },
   {
@@ -212,7 +214,6 @@
    "changeable": 1,
    "quickSearch": 1,
    "categories": [
-    "体育赛事",
     "篮球",
     "足球"
    ]
