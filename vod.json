@@ -132,24 +132,6 @@
    ]
   },
   {
-   "key": "占占Sports1",
-   "name": "😎占占體育專線😎",
-   "type": 1,
-   "api": "https://zztv.store/px/https%3A%2F%2Fcj.lziapi.com%2Fapi.php%2Fprovide%2Fvod?yf=1&mix=1&v=28",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "style": {
-    "type": "list"
-   },
-   "categories": [
-    "⚽️足球直播",
-    "🏀籃球直播",
-    "⚽️足球錄像",
-    "🏀籃球錄像"
-   ]
-  },
-  {
    "key": "非凡采集",
    "name": "🎬 非凡",
    "type": 1,
