@@ -163,14 +163,6 @@
       ]
     },
     {
-      "key": "大师兄",
-      "name": "大师兄 | 影视",
-      "type": 4,
-      "api": "https://fmtv.xyz/t4/dashixiong?k=48027cf1b4860e0e94d83176e272a96b",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "非凡采集",
       "name": "🎬 非凡",
       "type": 1,
