@@ -1282,10 +1282,10 @@
       ]
     },
     {
-      "key": "xchina_v2",
+      "key": "xchina2",
       "name": "📸 小黄书写真",
       "type": 3,
-      "api": "https://zztv.store/py18/xchina.py?v=2",
+      "api": "https://zztv.store/py18/xchina2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
