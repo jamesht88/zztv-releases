@@ -619,15 +619,6 @@
       }
     },
     {
-      "key": "xchina",
-      "name": "📸 小黄书写真",
-      "type": 3,
-      "api": "https://zztv.store/py18/xchina.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "155zy.com",
       "name": "🔞 155",
       "type": 1,
@@ -1294,6 +1285,16 @@
       "categories": [
         "伦理片"
       ]
+    },
+    {
+      "key": "xchina",
+      "name": "📸 小黄书写真",
+      "type": 3,
+      "api": "https://zztv.store/py18/xchina.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     }
   ]
 }
