@@ -4,10 +4,10 @@
   "wallpaper": "https://fmtv.xyz/public/fmtv/image.php",
   "sites": [
     {
-      "key": "haoYong1",
+      "key": "haoYong4",
       "name": "🔞 很好用",
       "type": 1,
-      "api": "https://zztv.store/api/config?hao=1",
+      "api": "https://zztv.store/api/config?hao=1&v=4",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -18,7 +18,12 @@
         "深喉",
         "廁拍/更衣室",
         "無碼流出/破壞版",
-        "黑料"
+        "黑料",
+        "巨根",
+        "女同",
+        "蘿莉",
+        "亂倫",
+        "迷姦"
       ]
     },
     {
@@ -1277,10 +1282,10 @@
       ]
     },
     {
-      "key": "xchina",
+      "key": "xchina_v2",
       "name": "📸 小黄书写真",
       "type": 3,
-      "api": "https://zztv.store/py18/xchina.py",
+      "api": "https://zztv.store/py18/xchina.py?v=2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
