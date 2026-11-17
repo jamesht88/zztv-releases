@@ -82,6 +82,16 @@
       ]
     },
     {
+      "key": "xchina7",
+      "name": "📸 小黄书写真",
+      "type": 3,
+      "api": "https://zztv.store/py18/xchina7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "ckzy",
       "name": "🔞 CK資源",
       "type": 1,
@@ -1280,16 +1290,6 @@
       "categories": [
         "伦理片"
       ]
-    },
-    {
-      "key": "xchina7",
-      "name": "📸 小黄书写真",
-      "type": 3,
-      "api": "https://zztv.store/py18/xchina7.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
     }
   ]
 }
